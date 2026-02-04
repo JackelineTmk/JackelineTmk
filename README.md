@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jackeline
 
-<!--
-**JackelineTmk/JackelineTmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical Engineering undergraduate student at **UFSCar** with
+interest in **software development** and technology.
 
-Here are some ideas to get you started:
+I started programming in high school through a **Technical Degree in Information
+Technology at ETEC**, where I built a solid foundation in programming and IT
+concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Background
+
+During high school, I worked with:
+- SQL
+- C++
+- Java
+- Pascal
+- Computer Networks
+- Excel
+- HTML & CSS
+
+At university, I expanded my skills through a **robotics extension project**,
+where I worked with:
+- Python
+- Git & GitHub
+- Linux
+
+In this project, I also developed important soft skills, acting as an **area
+manager** and later as **Vice President**, which helped me grow in leadership,
+teamwork, and communication.
+
+## 📚 Continuous Learning
+
+In addition to academic projects, I’ve been expanding my knowledge through
+online courses, especially in:
+- HTML / CSS
+- JavaScript
+- Node.js
+
+I’m always studying to improve my technical skills, explore new technologies,
+and gain practical experience in development.
+
+## 🎯 Current Goal
+
+I am currently looking for an **internship in software development**, where I
+can:
+- Apply what I’ve learned
+- Learn from real-world projects
+- Grow both technically and professionally
+
+## 🗂 About This Profile
+
+Here you’ll find:
+- High school technical projects
+- Academic and learning projects
+- Experiments and study repositories
+
+Some projects reflect my learning process at different stages — and that’s
+intentional 🙂
+
+---
+
+📫 Feel free to connect with me on **LinkedIn** or explore my repositories!
+https://www.linkedin.com/in/jackelinetmk/
