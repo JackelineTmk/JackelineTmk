@@ -1,64 +1,24 @@
 # Hi there! 👋 I'm Jackeline
 
-I'm an Electrical Engineering undergraduate student at **UFSCar** with
-interest in **software development** and technology.
+💻 Electrical Engineering undergraduate student at **UFSCar**  
+🚀 Focused in **JavaScript**, **Node.js**  and web technologies
+🎯 Interest in **software development** and technology 
 
-I started programming in high school through a **Technical Degree in Information
-Technology at ETEC**, where I built a solid foundation in programming and IT
-concepts.
+<img align="right" width="300" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JpZ3I3aHFoaXRheTQ0aTd0NDJ0aXpicWFudHczcDVmOW1mdGYyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif)">
 
-## 💻 Technical Background
 
-During high school, I worked with:
-- SQL
-- C++
-- Java
-- Pascal
-- Computer Networks
-- Excel
-- HTML & CSS
+## 💻 Technologies
 
-At university, I expanded my skills through a **robotics extension project**,
-where I worked with:
-- Python
-- Git & GitHub
-- Linux
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
-In this project, I also developed important soft skills, acting as an **area
-manager** and later as **Vice President**, which helped me grow in leadership,
-teamwork, and communication.
-
-## 📚 Continuous Learning
-
-In addition to academic projects, I’ve been expanding my knowledge through
-online courses, especially in:
-- HTML / CSS
-- JavaScript
-- Node.js
-
-I’m always studying to improve my technical skills, explore new technologies,
-and gain practical experience in development.
-
-## 🎯 Current Goal
-
-I am currently looking for an **internship in software development**, where I
-can:
-- Apply what I’ve learned
-- Learn from real-world projects
-- Grow both technically and professionally
-
-## 🗂 About This Profile
-
-Here you’ll find:
-- High school technical projects
-- Academic and learning projects
-- Experiments and study repositories
 
 Some projects reflect my learning process at different stages — and that’s
 intentional 🙂
 
----
+## 🌐 Connect with me  
 
-📫 Feel free to connect with me on **LinkedIn** or explore my repositories!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/JackelineTmk)
 
