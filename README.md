@@ -1,13 +1,12 @@
 # Hi there! 👋 I'm Jackeline
 
+<img align="right" height="350" width="350"  src="https://i.giphy.com/H62NM1ab7wzMXURdoi.gif">
+
 💻 Electrical Engineering undergraduate student at **UFSCar**  
-🚀 Focused in **JavaScript**, **Node.js**  and web technologies
+🚀 Focused in **JavaScript**, **Node.js**  and web technologies<br>
 🎯 Interest in **software development** and technology 
 
-<img align="right" width="300" src="https://i.giphy.com/H62NM1ab7wzMXURdoi.gif">
-
-
-## 💻 Technologies
+💻 Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  
@@ -18,7 +17,7 @@
 Some projects reflect my learning process at different stages — and that’s
 intentional 🙂
 
-## 🌐 Connect with me  
+🌐 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/JackelineTmk)
 
