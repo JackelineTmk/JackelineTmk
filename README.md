@@ -60,4 +60,5 @@ intentional 🙂
 ---
 
 📫 Feel free to connect with me on **LinkedIn** or explore my repositories!
-https://www.linkedin.com/in/jackelinetmk/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/JackelineTmk)
+
