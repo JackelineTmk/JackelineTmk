@@ -4,18 +4,16 @@
 
 💻 Electrical Engineering undergraduate student at **UFSCar**  
 🚀 Focused in **JavaScript**, **Node.js**  and web technologies<br>
-🎯 Interest in **software development** and technology 
+🎯 Interested in **Software Development Internship** opportunities 
 
 💻 Technologies
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,cpp,mysql,git">
+</p>
 
 
-Some projects reflect my learning process at different stages — and that’s
-intentional 🙂
+Some projects reflect my learning process at different stages 🙂
 
 🌐 Connect with me  
 
