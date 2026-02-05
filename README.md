@@ -4,7 +4,7 @@
 🚀 Focused in **JavaScript**, **Node.js**  and web technologies
 🎯 Interest in **software development** and technology 
 
-<img align="right" width="300" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JpZ3I3aHFoaXRheTQ0aTd0NDJ0aXpicWFudHczcDVmOW1mdGYyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif)">
+<img align="right" width="300" src="https://i.giphy.com/H62NM1ab7wzMXURdoi.gif">
 
 
 ## 💻 Technologies
